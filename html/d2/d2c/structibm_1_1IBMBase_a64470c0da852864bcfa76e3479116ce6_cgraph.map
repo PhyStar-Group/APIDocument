@@ -1,0 +1,8 @@
+<map id="ibm::IBMBase::UpdateIBPoints" name="ibm::IBMBase::UpdateIBPoints">
+<area shape="rect" id="node1" title="update ib points by input pdata" alt="" coords="5,85,225,112"/>
+<area shape="rect" id="node2" href="$da/d2e/namespacedmdyn_1_1angular.html#a94f602108469ac342315a0d1352a1f10" title="cross between tow vector" alt="" coords="283,5,481,32"/>
+<area shape="rect" id="node3" href="$d2/d2c/structibm_1_1IBMBase.html#a072e3dea4cc74d0a9e56dd9ee6cdcf44" title=" " alt="" coords="297,56,467,83"/>
+<area shape="rect" id="node4" href="$d2/d2c/structibm_1_1IBMBase.html#ae37c6114b775f993cc378a825c1a7352" title=" " alt="" coords="282,107,482,149"/>
+<area shape="rect" id="node5" href="$da/d2e/namespacedmdyn_1_1angular.html#abe477994c5c6d94dc6c6285828de292f" title="transfer 3x1 vec from particle frame to inertial frame by ee" alt="" coords="273,173,491,214"/>
+<area shape="rect" id="node6" href="$da/d2e/namespacedmdyn_1_1angular.html#a431ad9b5dba7dc6a44eca487cf41d557" title="transfer Euler quaterions to left rotate matrix" alt="" coords="539,180,731,207"/>
+</map>

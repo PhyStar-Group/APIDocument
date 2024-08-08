@@ -1,0 +1,4 @@
+<map id="solver::ppsol::CartPPSol::ScatterOutput" name="solver::ppsol::CartPPSol::ScatterOutput">
+<area shape="rect" id="node1" title="ouput scatter of particles rank&#45;by&#45;rank (excluding virtual particles)" alt="" coords="108,5,284,47"/>
+<area shape="rect" id="node2" href="$df/d64/simpleflow2d_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,60,39"/>
+</map>

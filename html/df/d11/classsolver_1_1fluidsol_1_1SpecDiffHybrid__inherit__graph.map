@@ -1,0 +1,9 @@
+<map id="solver::fluidsol::SpecDiffHybrid" name="solver::fluidsol::SpecDiffHybrid">
+<area shape="rect" id="node1" title=" " alt="" coords="421,104,600,145"/>
+<area shape="rect" id="node4" href="$d9/d6e/classsolver_1_1fluidsol_1_1CartBoxFFDSol.html" title=" " alt="" coords="648,5,849,47"/>
+<area shape="rect" id="node5" href="$d6/dc6/classsolver_1_1fluidsol_1_1CartBoxFFDSol_3_013_00_01SpaceID_01_4.html" title=" " alt="" coords="660,71,837,112"/>
+<area shape="rect" id="node6" href="$dc/d87/classsolver_1_1fluidsol_1_1CartBoxFFTSol.html" title=" " alt="" coords="649,136,848,177"/>
+<area shape="rect" id="node7" href="$d3/db3/classsolver_1_1fluidsol_1_1CartBoxFFTSol_3_013_00_01SpaceID_01_4.html" title=" " alt="" coords="660,201,837,243"/>
+<area shape="rect" id="node2" href="$d6/db0/classsolver_1_1fluidsol_1_1FluidSolBase.html" title=" " alt="" coords="164,111,373,138"/>
+<area shape="rect" id="node3" href="$d8/d51/classsolver_1_1Solver.html" title=" " alt="" coords="5,111,116,138"/>
+</map>

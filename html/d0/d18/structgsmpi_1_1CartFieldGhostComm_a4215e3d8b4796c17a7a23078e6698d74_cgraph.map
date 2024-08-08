@@ -1,0 +1,6 @@
+<map id="gsmpi::CartFieldGhostComm::Init" name="gsmpi::CartFieldGhostComm::Init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,215,90"/>
+<area shape="rect" id="node2" href="$dc/d1d/classgsmpi_1_1GSMPI.html#a25cd3b9834dde3cf0e3c857ca4d593b1" title="Get the Communicator." alt="" coords="278,5,465,32"/>
+<area shape="rect" id="node3" href="$dc/d1d/classgsmpi_1_1GSMPI.html#a48ff2d28e37a2606a87f4babe39acdcc" title="Get the Number of Neigbhors." alt="" coords="263,56,480,83"/>
+<area shape="rect" id="node4" href="$dc/d1d/classgsmpi_1_1GSMPI.html#a30df3a946340452de665ff5bb81573c3" title=" " alt="" coords="276,107,467,133"/>
+</map>

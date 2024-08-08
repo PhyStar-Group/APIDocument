@@ -1,0 +1,4 @@
+<map id="dmdyn::angular::RandomDir" name="dmdyn::angular::RandomDir">
+<area shape="rect" id="node1" title="generate a random direction" alt="" coords="5,5,211,32"/>
+<area shape="rect" id="node2" href="$d8/d73/structRandomNumber.html#a800f0fb232cb533c5f94101603dfbac0" title="Return a random Real between [0, 1)" alt="" coords="259,5,429,32"/>
+</map>

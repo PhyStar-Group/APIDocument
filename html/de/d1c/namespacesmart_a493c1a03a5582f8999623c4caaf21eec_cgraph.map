@@ -1,0 +1,4 @@
+<map id="smart::SensorFactory" name="smart::SensorFactory">
+<area shape="rect" id="node1" title="create a shared_ptr of a sensor" alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$de/d1c/namespacesmart.html#a6dce486c1b27a13042554360e0ef0ee4" title="select sensor according to its name" alt="" coords="212,5,384,32"/>
+</map>

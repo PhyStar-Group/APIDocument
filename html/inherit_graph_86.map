@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d3a/structsolver_1_1CartDataSpace.html" title=" " alt="" coords="439,71,605,112"/>
+<area shape="rect" id="node2" href="$df/dde/classsolver_1_1fluidsol_1_1CartBoxFDMSol_3_013_00_01SpaceID_01_4.html" title=" " alt="" coords="685,5,862,47"/>
+<area shape="rect" id="node3" href="$d6/dc6/classsolver_1_1fluidsol_1_1CartBoxFFDSol_3_013_00_01SpaceID_01_4.html" title=" " alt="" coords="685,136,862,177"/>
+<area shape="rect" id="node4" href="$d3/db3/classsolver_1_1fluidsol_1_1CartBoxFFTSol_3_013_00_01SpaceID_01_4.html" title=" " alt="" coords="685,71,862,112"/>
+<area shape="rect" id="node5" href="$d9/d3a/structsolver_1_1CartDataSpace.html" title=" " alt="" coords="439,397,605,439"/>
+<area shape="rect" id="node6" href="$d7/dbd/classsolver_1_1fluidsol_1_1CartBoxFDMSol.html" title=" " alt="" coords="685,201,862,243"/>
+<area shape="rect" id="node12" href="$d7/dbd/classsolver_1_1fluidsol_1_1CartBoxFDMSol.html" title=" " alt="" coords="671,267,876,308"/>
+<area shape="rect" id="node13" href="$d9/d6e/classsolver_1_1fluidsol_1_1CartBoxFFDSol.html" title=" " alt="" coords="673,397,874,439"/>
+<area shape="rect" id="node14" href="$dc/d87/classsolver_1_1fluidsol_1_1CartBoxFFTSol.html" title=" " alt="" coords="674,332,873,373"/>
+<area shape="rect" id="node15" href="$dd/d49/classsolver_1_1fluidsol_1_1SimCartFlow.html" title=" " alt="" coords="680,463,867,504"/>
+<area shape="rect" id="node16" href="$df/d6b/classsolver_1_1ppsol_1_1CartPPSol.html" title="Point&#45;Particle Solver in a Cartesian box." alt="" coords="685,528,861,569"/>
+<area shape="rect" id="node7" href="$d6/db6/classCartBoxFDMCavity.html" title=" " alt="" coords="940,259,1087,286"/>
+<area shape="rect" id="node8" href="$d3/d08/classCartBoxFDMChannel3D.html" title=" " alt="" coords="926,310,1101,337"/>
+<area shape="rect" id="node9" href="$d9/d9d/classCartBoxFDMDuct.html" title=" " alt="" coords="946,107,1081,134"/>
+<area shape="rect" id="node10" href="$df/dcf/classCartBoxFDMHIT.html" title=" " alt="" coords="950,158,1077,185"/>
+<area shape="rect" id="node11" href="$d5/d1c/classCartBoxFDMPipe3D.html" title=" " alt="" coords="938,209,1089,235"/>
+<area shape="rect" id="node17" href="$d7/d7c/classsolver_1_1ppsol_1_1CartSmartPPSol.html" title="smart Point&#45;Particle Solver in a Cartesian box" alt="" coords="924,528,1103,569"/>
+<area shape="rect" id="node18" href="$d8/d51/classsolver_1_1Solver.html" title=" " alt="" coords="5,434,116,461"/>
+<area shape="rect" id="node19" href="$d6/db0/classsolver_1_1fluidsol_1_1FluidSolBase.html" title=" " alt="" coords="164,377,373,403"/>
+<area shape="rect" id="node23" href="$d0/d2a/classsolver_1_1ppsol_1_1PPSolBase.html" title=" " alt="" coords="178,459,359,486"/>
+<area shape="rect" id="node20" href="$d8/d99/classsolver_1_1fluidsol_1_1FDMSolver.html" title=" " alt="" coords="424,242,620,269"/>
+<area shape="rect" id="node21" href="$dc/ddc/classsolver_1_1fluidsol_1_1SimpleFlow.html" title=" " alt="" coords="421,467,623,494"/>
+<area shape="rect" id="node22" href="$d8/dfb/classsolver_1_1fluidsol_1_1SpecDiffHybrid.html" title=" " alt="" coords="433,332,611,373"/>
+</map>

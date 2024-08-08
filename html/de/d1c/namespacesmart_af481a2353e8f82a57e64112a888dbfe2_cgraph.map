@@ -1,0 +1,5 @@
+<map id="smart::ActorFactory" name="smart::ActorFactory">
+<area shape="rect" id="node1" title="create a shared_ptr of a actor" alt="" coords="5,13,155,39"/>
+<area shape="rect" id="node2" href="$de/d1c/namespacesmart.html#ab92c4090bf713952a947bdbcd32e8368" title="select actor according to its name" alt="" coords="203,13,365,39"/>
+<area shape="rect" id="node3" href="$d6/d24/classsmart_1_1OrientationActor.html#a04580f2502750af1b6f62e17c410ad75" title=" " alt="" coords="413,5,588,47"/>
+</map>

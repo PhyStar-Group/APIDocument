@@ -1,0 +1,7 @@
+<map id="solver::ppsol::CartPPSol&lt; N_dim, SpaceID &gt;" name="solver::ppsol::CartPPSol&lt; N_dim, SpaceID &gt;">
+<area shape="rect" id="node1" title="Point&#45;Particle Solver in a Cartesian box." alt="" coords="107,169,283,211"/>
+<area shape="rect" id="node5" href="$d7/d7c/classsolver_1_1ppsol_1_1CartSmartPPSol.html" title="smart Point&#45;Particle Solver in a Cartesian box" alt="" coords="105,259,284,300"/>
+<area shape="rect" id="node2" href="$d0/d2a/classsolver_1_1ppsol_1_1PPSolBase.html" title=" " alt="" coords="5,87,187,114"/>
+<area shape="rect" id="node3" href="$d8/d51/classsolver_1_1Solver.html" title=" " alt="" coords="41,5,151,32"/>
+<area shape="rect" id="node4" href="$d9/d3a/structsolver_1_1CartDataSpace.html" title=" " alt="" coords="211,80,378,121"/>
+</map>

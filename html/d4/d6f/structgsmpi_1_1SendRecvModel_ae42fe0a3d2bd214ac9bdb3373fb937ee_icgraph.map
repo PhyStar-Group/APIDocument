@@ -1,0 +1,5 @@
+<map id="gsmpi::SendRecvModel::Init" name="gsmpi::SendRecvModel::Init">
+<area shape="rect" id="node1" title="Init Send Recv object." alt="" coords="245,23,420,65"/>
+<area shape="rect" id="node2" href="$da/d65/structgsmpi_1_1Receiver.html#af1ce8debee40aec187564f499e17266b" title=" " alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node3" href="$dc/d95/structgsmpi_1_1Sender.html#aa19c334effe42eb7e305d04dc2b7f952" title=" " alt="" coords="17,56,185,83"/>
+</map>

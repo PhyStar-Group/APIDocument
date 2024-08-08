@@ -1,0 +1,4 @@
+<map id="dmdyn::ParticleModel::EquRadius" name="dmdyn::ParticleModel::EquRadius">
+<area shape="rect" id="node1" title=" " alt="" coords="264,5,427,47"/>
+<area shape="rect" id="node2" href="$d7/d47/structdmdyn_1_1WPContact.html#ac76baac58264072e089ae207a4db6a30" title="the radius for collision depending on the selected wall contact method" alt="" coords="5,5,216,47"/>
+</map>

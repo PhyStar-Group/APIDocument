@@ -1,0 +1,4 @@
+<map id="solver::fluidsol::CartBoxFFTSol&lt; 3, SpaceID &gt;::CreateScalarFields" name="solver::fluidsol::CartBoxFFTSol&lt; 3, SpaceID &gt;::CreateScalarFields">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$df/d70/classblockelm_1_1CartBlock.html#abe350b191dec19b68663f7b00edf828a" title="allocate the space for the scalar field(including the ghost mesh) and the scalar all to zero" alt="" coords="308,13,460,54"/>
+</map>

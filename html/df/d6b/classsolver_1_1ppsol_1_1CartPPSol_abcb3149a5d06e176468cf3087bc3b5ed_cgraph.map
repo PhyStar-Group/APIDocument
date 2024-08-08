@@ -1,0 +1,5 @@
+<map id="solver::ppsol::CartPPSol::SetMPI" name="solver::ppsol::CartPPSol::SetMPI">
+<area shape="rect" id="node1" title="set MPI of ppsol" alt="" coords="5,39,181,80"/>
+<area shape="rect" id="node2" href="$d4/d6f/structgsmpi_1_1SendRecvModel.html#a63da0594747c97517e5e71d43c40423e" title=" " alt="" coords="229,5,404,47"/>
+<area shape="rect" id="node3" href="$d4/d6f/structgsmpi_1_1SendRecvModel.html#a6155895c80a94e369913eabeca66b62e" title="update the length of buffer" alt="" coords="229,71,404,112"/>
+</map>

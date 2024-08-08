@@ -1,0 +1,6 @@
+<map id="gsmpi::Point::SetPos" name="gsmpi::Point::SetPos">
+<area shape="rect" id="node1" title="Set the Point&#39;s position." alt="" coords="220,64,375,91"/>
+<area shape="rect" id="node2" href="$da/da8/structgsmpi_1_1Point.html#ac146780159d9b7040efeeaba4e57a140" title="Construct a new Point object by a position." alt="" coords="17,5,161,32"/>
+<area shape="rect" id="node3" href="$d4/dcf/structgsmpi_1_1HexZone_3_013_01_4.html#a75ce33413a9ed3e8afc750ec30a1de10" title="Set the Nodes by a point vector list." alt="" coords="5,57,172,98"/>
+<area shape="rect" id="node4" href="$d7/d4c/structgsmpi_1_1HexZone_3_012_01_4.html#a459e780ddbad1fd3cd0c83638118cbd1" title="Set the Nodes by vector list." alt="" coords="5,122,172,163"/>
+</map>

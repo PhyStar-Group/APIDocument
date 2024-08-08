@@ -1,0 +1,5 @@
+<map id="dmdyn::WPContact::CollisionRadius" name="dmdyn::WPContact::CollisionRadius">
+<area shape="rect" id="node1" title="the radius for collision depending on the selected wall contact method" alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$d1/d5c/structdmdyn_1_1ParticleModel.html#a4a408223b85dccccd0d9380eea99b55c" title=" " alt="" coords="264,5,427,47"/>
+<area shape="rect" id="node3" href="$d1/d5c/structdmdyn_1_1ParticleModel.html#a794bf8f6a5501d0711487d6abaf1e129" title=" " alt="" coords="264,71,427,112"/>
+</map>

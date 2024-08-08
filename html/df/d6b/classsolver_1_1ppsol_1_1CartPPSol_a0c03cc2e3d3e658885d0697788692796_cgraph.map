@@ -1,0 +1,4 @@
+<map id="solver::ppsol::CartPPSol::InitVelAndAVel" name="solver::ppsol::CartPPSol::InitVelAndAVel">
+<area shape="rect" id="node1" title="Init of particle velocity and Angular Velocity." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$da/d2e/namespacedmdyn_1_1angular.html#a0cbf34bfe3f402440680f3d41dce3989" title="transfer 3x3 matrix from inertial frame to particle frame by ee" alt="" coords="229,5,444,47"/>
+</map>

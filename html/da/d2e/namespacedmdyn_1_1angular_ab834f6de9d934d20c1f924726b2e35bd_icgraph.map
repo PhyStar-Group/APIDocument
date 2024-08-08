@@ -1,0 +1,5 @@
+<map id="dmdyn::angular::eeNormalized" name="dmdyn::angular::eeNormalized">
+<area shape="rect" id="node1" title="to keep norm of Euler quaterions equal to one" alt="" coords="229,46,452,73"/>
+<area shape="rect" id="node2" href="$df/d6b/classsolver_1_1ppsol_1_1CartPPSol.html#a2785a18160466a2b92e56ad254e034c1" title="sub solver in Solve()" alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node3" href="$df/d6b/classsolver_1_1ppsol_1_1CartPPSol.html#ad0babae19ec4e7ad6e39381468cf8c49" title="sub solver in Solve() by RK3" alt="" coords="5,71,181,112"/>
+</map>

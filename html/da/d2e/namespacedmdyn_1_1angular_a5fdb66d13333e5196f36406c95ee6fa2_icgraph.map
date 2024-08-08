@@ -1,0 +1,9 @@
+<map id="dmdyn::angular::eeToRright" name="dmdyn::angular::eeToRright">
+<area shape="rect" id="node1" title="transfer Euler quaterions to right rotate matrix" alt="" coords="1269,35,1471,61"/>
+<area shape="rect" id="node2" href="$da/d2e/namespacedmdyn_1_1angular.html#a6b558c25ca102612dc04deab25bb527e" title=" " alt="" coords="1014,5,1215,32"/>
+<area shape="rect" id="node3" href="$da/d2e/namespacedmdyn_1_1angular.html#ab8f8a5a2cfac3998f76502710b6ee6a0" title=" " alt="" coords="1008,57,1221,98"/>
+<area shape="rect" id="node4" href="$d5/d91/classdmdyn_1_1EllipsoidLevelSet.html#ae9ca415ed736b2d991068c2999fdebd3" title=" " alt="" coords="741,57,960,98"/>
+<area shape="rect" id="node5" href="$d5/d91/classdmdyn_1_1EllipsoidLevelSet.html#afeddb70df8a7a1452b0fcf4d7570ab1b" title=" " alt="" coords="507,57,693,98"/>
+<area shape="rect" id="node6" href="$d9/d23/classdmdyn_1_1EllipsoidalShape.html#a54879ecd36211270622fc78b1f4180b0" title=" " alt="" coords="276,57,459,98"/>
+<area shape="rect" id="node7" href="$dd/dfa/structdmdyn_1_1EllipsoidalPointParticle.html#aadd268053cdeb3d122a0fb0532e7f43c" title=" " alt="" coords="5,57,228,98"/>
+</map>

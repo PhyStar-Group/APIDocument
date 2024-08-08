@@ -1,0 +1,6 @@
+<map id="compgeo::Point::SetPos" name="compgeo::Point::SetPos">
+<area shape="rect" id="node1" title="Set the Point&#39;s position." alt="" coords="228,64,403,91"/>
+<area shape="rect" id="node2" href="$df/d44/structcompgeo_1_1Point.html#a1c0e3e5f73d26f63305012906ee8b63c" title="Construct a new Point object by a position." alt="" coords="11,5,175,32"/>
+<area shape="rect" id="node3" href="$de/df0/structcompgeo_1_1CartBoxZone_3_013_01_4.html#aa3e1228dc3c484e318b64378848e5d26" title="Set the Nodes by a point vector list." alt="" coords="5,57,180,98"/>
+<area shape="rect" id="node4" href="$df/dd7/structcompgeo_1_1CartBoxZone_3_012_01_4.html#a2de0aaeb99e56ffd826cda68b04b9c2b" title="Set the Nodes by vector list." alt="" coords="5,122,180,163"/>
+</map>

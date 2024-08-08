@@ -1,0 +1,4 @@
+<map id="tfft3d::PencilDFTr2c" name="tfft3d::PencilDFTr2c">
+<area shape="rect" id="node1" title="DFT for a 3D&#45;pencil array (r2c)" alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$d3/d92/namespacetfft3d.html#aa1095b7d2f458ddadb2e580bd877c806" title="copy the memory of one array to a new array with a different size for three dimensional case" alt="" coords="200,5,352,32"/>
+</map>

@@ -1,0 +1,28 @@
+var structsolver_1_1CartDataSpace =
+[
+    [ "CartDataSpace", "d9/d3a/structsolver_1_1CartDataSpace.html#aaf032de8d6bf858c4b4e99d162c723b8", null ],
+    [ "~CartDataSpace", "d9/d3a/structsolver_1_1CartDataSpace.html#a74c7e92dc6adfe49327d7c3ce924895a", null ],
+    [ "CalTotalShape", "d9/d3a/structsolver_1_1CartDataSpace.html#a9eb71301ad75a6ec31900587c461c9e7", null ],
+    [ "CheckConfigDataSpaceDict", "d9/d3a/structsolver_1_1CartDataSpace.html#a237e0f0e1a37c26d4a20f5f5a8a67c63", null ],
+    [ "ConfigDataSpaceDict", "d9/d3a/structsolver_1_1CartDataSpace.html#aeefece148927e784278378505b231fbb", null ],
+    [ "cartblock", "d9/d3a/structsolver_1_1CartDataSpace.html#a4323374858c84f289a3170a6b3591065", null ],
+    [ "cartibm", "d9/d3a/structsolver_1_1CartDataSpace.html#a391468850be4581efc6d2b9abe369ecc", null ],
+    [ "center_flag", "d9/d3a/structsolver_1_1CartDataSpace.html#abc6d8c927d8e749af0a6c72db3b173c5", null ],
+    [ "dataspacedict", "d9/d3a/structsolver_1_1CartDataSpace.html#ab5cc9e590fae1c81243f372101bd310c", null ],
+    [ "dataspacetml", "d9/d3a/structsolver_1_1CartDataSpace.html#a28b9d143f8720178edbe603b3e8c7cf5", null ],
+    [ "domain_size", "d9/d3a/structsolver_1_1CartDataSpace.html#a4e8feb3e47e009ad64d8260745bb7514", null ],
+    [ "domain_size", "d9/d3a/structsolver_1_1CartDataSpace.html#a035af686403918eb6027b6382c2f95ce", null ],
+    [ "gb_cartmesh", "d9/d3a/structsolver_1_1CartDataSpace.html#a5779125ba78a3505d51539206f60ba99", null ],
+    [ "gb_domain_size", "d9/d3a/structsolver_1_1CartDataSpace.html#a522a98ed70b31ebe0938d2522e772937", null ],
+    [ "gb_mesh_size", "d9/d3a/structsolver_1_1CartDataSpace.html#a031a8f6f858b256b2aa38b5c33105995", null ],
+    [ "ghost_size", "d9/d3a/structsolver_1_1CartDataSpace.html#acf14c6bc0797deba181ec78857e1cbd5", null ],
+    [ "ghost_size", "d9/d3a/structsolver_1_1CartDataSpace.html#a0c5d6aee26c2873c948d9ba12208d190", null ],
+    [ "ibm_flag", "d9/d3a/structsolver_1_1CartDataSpace.html#a975071abac080382046e5a85b909f710", null ],
+    [ "mesh_size", "d9/d3a/structsolver_1_1CartDataSpace.html#aed15966be79df3a5401753eec4feeec4", null ],
+    [ "mesh_size", "d9/d3a/structsolver_1_1CartDataSpace.html#aed15966be79df3a5401753eec4feeec4", null ],
+    [ "mpicomm", "d9/d3a/structsolver_1_1CartDataSpace.html#ac07c49261cd6eb61dcc6c7fb659fa474", null ],
+    [ "stagger_flag", "d9/d3a/structsolver_1_1CartDataSpace.html#a0ebba5f101e7ee749f1f2b9569f7e4ef", null ],
+    [ "stagger_flag", "d9/d3a/structsolver_1_1CartDataSpace.html#a3d17bb21c70bbce83422de9de0bda826", null ],
+    [ "start_index", "d9/d3a/structsolver_1_1CartDataSpace.html#aa44951d7131cd63db95bf91f1acd4df6", null ],
+    [ "tempfields", "d9/d3a/structsolver_1_1CartDataSpace.html#accdde1057d85cdf40d1f41b82ef56371", null ]
+];

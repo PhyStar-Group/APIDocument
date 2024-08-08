@@ -1,0 +1,6 @@
+<map id="solver::fluidsol::SimpleFlow" name="solver::fluidsol::SimpleFlow">
+<area shape="rect" id="node1" title=" " alt="" coords="9,155,211,181"/>
+<area shape="rect" id="node4" href="$dd/d49/classsolver_1_1fluidsol_1_1SimCartFlow.html" title=" " alt="" coords="17,229,203,271"/>
+<area shape="rect" id="node2" href="$d6/db0/classsolver_1_1fluidsol_1_1FluidSolBase.html" title=" " alt="" coords="5,80,215,107"/>
+<area shape="rect" id="node3" href="$d8/d51/classsolver_1_1Solver.html" title=" " alt="" coords="55,5,165,32"/>
+</map>

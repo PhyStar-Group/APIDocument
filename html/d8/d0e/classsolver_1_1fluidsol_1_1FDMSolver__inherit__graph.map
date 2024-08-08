@@ -1,0 +1,13 @@
+<map id="solver::fluidsol::FDMSolver" name="solver::fluidsol::FDMSolver">
+<area shape="rect" id="node1" title=" " alt="" coords="421,172,617,199"/>
+<area shape="rect" id="node4" href="$d7/dbd/classsolver_1_1fluidsol_1_1CartBoxFDMSol.html" title=" " alt="" coords="679,99,857,141"/>
+<area shape="rect" id="node10" href="$d7/dbd/classsolver_1_1fluidsol_1_1CartBoxFDMSol.html" title=" " alt="" coords="665,165,871,206"/>
+<area shape="rect" id="node11" href="$df/dde/classsolver_1_1fluidsol_1_1CartBoxFDMSol_3_013_00_01SpaceID_01_4.html" title=" " alt="" coords="679,230,857,271"/>
+<area shape="rect" id="node2" href="$d6/db0/classsolver_1_1fluidsol_1_1FluidSolBase.html" title=" " alt="" coords="164,172,373,199"/>
+<area shape="rect" id="node3" href="$d8/d51/classsolver_1_1Solver.html" title=" " alt="" coords="5,172,116,199"/>
+<area shape="rect" id="node5" href="$d6/db6/classCartBoxFDMCavity.html" title=" " alt="" coords="933,5,1079,32"/>
+<area shape="rect" id="node6" href="$d3/d08/classCartBoxFDMChannel3D.html" title=" " alt="" coords="919,56,1093,83"/>
+<area shape="rect" id="node7" href="$d9/d9d/classCartBoxFDMDuct.html" title=" " alt="" coords="939,107,1073,133"/>
+<area shape="rect" id="node8" href="$df/dcf/classCartBoxFDMHIT.html" title=" " alt="" coords="943,157,1069,184"/>
+<area shape="rect" id="node9" href="$d5/d1c/classCartBoxFDMPipe3D.html" title=" " alt="" coords="931,208,1081,235"/>
+</map>
